@@ -1,0 +1,29 @@
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+}
+
+h4 {
+    font-weight: 300;
+}
+
+.font-500 {
+    font-weight: 500;
+}
+
+.text-gray {
+    color: #707070;
+}
+
+nav,
+form {
+    background-color: #28a745;
+}
+
+nav img {
+    width: 7rem;
+}
+
+footer img {
+    width: 7rem;
+}
